@@ -11,6 +11,20 @@ with the video selected, and the window closes by itself.
 All messages (progress window, logs, installer) are shown in Spanish when the system
 language is Spanish, and in English otherwise.
 
+## Screenshots
+
+| Bookmark in Chrome | Downloading |
+| --- | --- |
+| ![Bookmark edit dialog with the bookmarklet as URL](docs/img/en/bookmark.png) | ![Progress window while yt-dlp downloads](docs/img/en/downloading.png) |
+
+| Converting for social networks | Finished |
+| --- | --- |
+| ![Progress window while ffmpeg converts the video](docs/img/en/converting.png) | ![Progress window showing the saved file path](docs/img/en/done.png) |
+
+When everything is done the file manager opens with the downloaded video:
+
+![File manager showing the downloaded video in the Downloads folder](docs/img/en/folder.png)
+
 ## How it works
 
 - `server.py`: HTTP service on `127.0.0.1:8765` (only reachable from your PC). It receives the URL,

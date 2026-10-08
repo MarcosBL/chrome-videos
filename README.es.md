@@ -11,6 +11,20 @@ con el vídeo seleccionado y la ventana se cierra sola.
 Todos los mensajes (ventana de progreso, logs, instalador) se muestran en español si el
 sistema está en español, y en inglés en cualquier otro caso.
 
+## Capturas
+
+| Marcador en Chrome | Descargando |
+| --- | --- |
+| ![Diálogo de edición del marcador con el bookmarklet como URL](docs/img/bookmark.png) | ![Ventana de progreso mientras yt-dlp descarga](docs/img/downloading.png) |
+
+| Convirtiendo para redes sociales | Terminado |
+| --- | --- |
+| ![Ventana de progreso mientras ffmpeg convierte el vídeo](docs/img/converting.png) | ![Ventana de progreso con la ruta del archivo guardado](docs/img/done.png) |
+
+Al acabar se abre el gestor de archivos con el vídeo descargado:
+
+![Gestor de archivos mostrando el vídeo descargado en la carpeta Descargas](docs/img/folder.png)
+
 ## Cómo funciona
 
 - `server.py`: servicio HTTP en `127.0.0.1:8765` (solo accesible desde tu PC). Recibe la URL,
