@@ -13,7 +13,9 @@ sistema está en español, y en inglés en cualquier otro caso.
 
 ## Vídeo de demostración
 
-[![Vídeo de demostración: un clic, descarga, conversión y el archivo en su carpeta](docs/img/demo-poster.png)](docs/demo.mp4)
+https://github.com/user-attachments/assets/475f7b8f-7c45-40f4-83aa-410be783e454
+
+[Descargar el MP4](docs/demo.mp4)
 
 ## Capturas
 

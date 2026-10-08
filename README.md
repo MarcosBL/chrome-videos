@@ -13,9 +13,9 @@ language is Spanish, and in English otherwise.
 
 ## Demo video
 
-
 https://github.com/user-attachments/assets/475f7b8f-7c45-40f4-83aa-410be783e454
 
+[Download the MP4](docs/demo.mp4)
 
 ## Screenshots
 
