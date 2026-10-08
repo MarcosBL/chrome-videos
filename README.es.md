@@ -15,8 +15,6 @@ sistema está en español, y en inglés en cualquier otro caso.
 
 https://github.com/user-attachments/assets/475f7b8f-7c45-40f4-83aa-410be783e454
 
-[Descargar el MP4](docs/demo.mp4)
-
 ## Capturas
 
 | Marcador en Chrome | Descargando |
