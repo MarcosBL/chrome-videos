@@ -11,6 +11,10 @@ con el vídeo seleccionado y la ventana se cierra sola.
 Todos los mensajes (ventana de progreso, logs, instalador) se muestran en español si el
 sistema está en español, y en inglés en cualquier otro caso.
 
+## Vídeo de demostración
+
+[![Vídeo de demostración: un clic, descarga, conversión y el archivo en su carpeta](docs/img/demo-poster.png)](docs/demo.mp4)
+
 ## Capturas
 
 | Marcador en Chrome | Descargando |

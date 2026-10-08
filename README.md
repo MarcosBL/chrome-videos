@@ -11,6 +11,10 @@ with the video selected, and the window closes by itself.
 All messages (progress window, logs, installer) are shown in Spanish when the system
 language is Spanish, and in English otherwise.
 
+## Demo video
+
+[![Demo video: one click, download, conversion and the file in its folder](docs/img/demo-poster.png)](docs/demo.mp4)
+
 ## Screenshots
 
 | Bookmark in Chrome | Downloading |
