@@ -13,7 +13,9 @@ language is Spanish, and in English otherwise.
 
 ## Demo video
 
-[![Demo video: one click, download, conversion and the file in its folder](docs/img/demo-poster.png)](docs/demo.mp4)
+
+https://github.com/user-attachments/assets/475f7b8f-7c45-40f4-83aa-410be783e454
+
 
 ## Screenshots
 
