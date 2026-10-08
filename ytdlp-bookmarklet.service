@@ -1,0 +1,11 @@
+[Unit]
+Description=@DESCRIPTION@
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 @DIR@/server.py --lang @LANG@ --port @PORT@ --download-dir "@DOWNLOAD_DIR@" --ytdlp @YTDLP@ @JS_RUNTIME_ARG@
+Restart=on-failure
+RestartSec=3
+
+[Install]
+WantedBy=default.target
