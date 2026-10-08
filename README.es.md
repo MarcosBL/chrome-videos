@@ -11,6 +11,16 @@ con el vídeo seleccionado y la ventana se cierra sola.
 Todos los mensajes (ventana de progreso, logs, instalador) se muestran en español si el
 sistema está en español, y en inglés en cualquier otro caso.
 
+## Sitios compatibles
+
+Funciona con todo lo que soporta yt-dlp, entre otros:
+
+- Grandes plataformas de vídeo: YouTube, Vimeo, Dailymotion
+- Redes sociales y vídeo corto: Facebook, Instagram, TikTok, X/Twitter, Reddit
+- Directos: Twitch (VODs, directos y clips), Kick
+- Audio: SoundCloud, Bandcamp, Mixcloud
+- Noticias y TV: BBC, CNN y muchas cadenas internacionales
+
 ## Vídeo de demostración
 
 https://github.com/user-attachments/assets/475f7b8f-7c45-40f4-83aa-410be783e454

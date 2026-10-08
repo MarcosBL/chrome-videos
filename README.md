@@ -11,6 +11,16 @@ with the video selected, and the window closes by itself.
 All messages (progress window, logs, installer) are shown in Spanish when the system
 language is Spanish, and in English otherwise.
 
+## Supported sites
+
+Covers everything yt-dlp does, including:
+
+- Major video platforms: YouTube, Vimeo, Dailymotion
+- Social & short-form: Facebook, Instagram, TikTok, X/Twitter, Reddit
+- Live streaming: Twitch (VODs, streams & clips), Kick
+- Audio: SoundCloud, Bandcamp, Mixcloud
+- News & TV: BBC, CNN & many international broadcasters
+
 ## Demo video
 
 https://github.com/user-attachments/assets/475f7b8f-7c45-40f4-83aa-410be783e454
