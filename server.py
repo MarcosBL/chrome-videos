@@ -351,6 +351,7 @@ def build_command(config: Config, url: str) -> list:
         cmd += ["--js-runtimes", config.js_runtime]
     return cmd + [
         "--no-quiet",
+        "--cookies-from-browser", "chrome",
         "--newline",
         "--progress",
         "--print", "after_move:filepath",
